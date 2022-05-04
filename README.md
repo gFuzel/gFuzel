@@ -1,4 +1,4 @@
-<h1 align="left">  Olá 👋, eu sou o Gustavo Fuzel</h1>
+<h1 align="left">  Olá, eu sou o Gustavo Fuzel. 👋</h1>
 
 <h4>🤔 Buscando a primeira oportunidade como desenvolvedor web.</h4>
 <h4>🌱 Estou aprendendo Desenvolvimento Web com JavaScript, CSS e HTML.</h4>
