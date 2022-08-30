@@ -1,7 +1,7 @@
 <h1 align="left">  Olá, eu sou o Gustavo Fuzel. 👋</h1>
 
-<h4>🤔 Buscando a primeira oportunidade como desenvolvedor web.</h4>
-<h4>🌱 Estou aprendendo Desenvolvimento Web com JavaScript, CSS e HTML.</h4>
+<h4>🤔 Buscando a primeira oportunidade como desenvolvedor web ou QA Tester.</h4>
+<h4>🌱 Tenho conhecimento de Desenvolvimento Web com JavaScript, CSS e HTML. Também possuo conhecimento em Selenium WebDriver, Java e em Frameworks Junit5 e TesteNG, desenvolvendo testes manuais e automatizados.</h4>
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api?username=gFuzel&show_icons=true&theme=dracula"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gFuzel&layout=compact&theme=dracula" src="https://github.com/gFuzel/github-readme-stats">
  
