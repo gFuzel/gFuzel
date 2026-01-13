@@ -38,6 +38,7 @@
 <ul>
   <li>Cypress</li>
   <li>Playwright</li>
+  <li>Rest Assured </li>
   <li>Selenium</li>
   <li>Appium</li>
 </ul>
