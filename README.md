@@ -1,19 +1,107 @@
-<h1 align="left">  Olá, eu sou o Gustavo Fuzel. 👋</h1>
+<div align="center">
+  <h1>Olá! Eu sou Gustavo Fuzel 👋</h1>
+  <p>
+    🧪 <strong>QA Júnior | Automação de Testes</strong><br>
+    🌐 Web • 🔗 API • 📱 Mobile
+  </p>
+</div>
 
-<h4>🌱 Tenho conhecimento de Desenvolvimento Web com JavaScript, CSS e HTML. Também possuo conhecimento em Selenium WebDriver, Java e em Frameworks Junit5 e TesteNG, desenvolvendo testes manuais e automatizados.</h4>
+<hr>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=gFuzel&show_icons=true&theme=dracula"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gFuzel&layout=compact&theme=dracula" src="https://github.com/gFuzel/github-readme-stats">
- 
-<h2 align="left">🚀Minhas habilidades</h2>
-<h4> 💻Linguagens, IDE's e Frameworks</h4>
+<h2>👨‍💻 Sobre mim</h2>
+<p>
+  Sou <strong>QA Júnior</strong> com foco em <strong>automação de testes</strong>,
+  atuando na garantia da qualidade de aplicações Web, APIs e Mobile.
+</p>
+<p>
+  Tenho experiência com testes manuais e automatizados, colaboração com times ágeis
+  e interesse contínuo em boas práticas, qualidade de software e melhoria contínua.
+</p>
 
-<img id="JS" src="https://camo.githubusercontent.com/848defb760c0adff4362c04283f254f633ea8eff177c1640b209429d0e3d7627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074"></div>
-<img id="HTML" src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35"> </div>
-<img id="CSS" src="https://camo.githubusercontent.com/d738d76484d50c8345c2d01e39364b707285bc7936140858e7909dfe6424efb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236"> </div>
-<img id="VScode" src="https://camo.githubusercontent.com/1ca4fca85fcdf590edd7002c02ded299502daa79309d0656859b69d55a1c1fa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343"> </div>
+<hr>
 
-<h2 align="left">🌎 Contatos:</h2>
+<h2>🧪 Áreas de Atuação</h2>
+<ul>
+  <li>✔️ Automação de testes para aplicações <strong>Web</strong></li>
+  <li>✔️ Automação de testes de <strong>APIs</strong></li>
+  <li>✔️ Automação de testes <strong>Mobile</strong></li>
+  <li>✔️ Testes manuais funcionais e exploratórios</li>
+  <li>✔️ Criação e execução de casos de teste</li>
+  <li>✔️ Identificação, reporte e acompanhamento de bugs</li>
+</ul>
 
-<a href="https://www.linkedin.com/in/gustavo-fuzel-de-carvalho-57b543229/"><img align="left" id="linkedin"  src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"></a>
-<a href="mailto:gu.fuzel.1@gmail.com"> <img align="left" id="gmail" src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"></a>
+<hr>
 
+<h2>🛠️ Tecnologias & Ferramentas</h2>
+
+<h4>Automação de Testes</h4>
+<ul>
+  <li>Cypress</li>
+  <li>Playwright</li>
+  <li>Selenium</li>
+  <li>Appium</li>
+</ul>
+
+<h4>Testes de API</h4>
+<ul>
+  <li>Postman</li>
+  <li>REST Assured</li>
+  <li>Swagger</li>
+</ul>
+
+<h4>Cloud & Bancos de Dados</h4>
+<ul>
+  <li>AWS Cloud</li>
+  <li>Amazon DynamoDB</li>
+  <li>Noções de SQL</li>
+</ul>
+
+<h4>Gestão & Qualidade</h4>
+<ul>
+  <li>JIRA</li>
+  <li>Criação de bugs, histórias e casos de teste</li>
+  <li>Metodologias Ágeis (Scrum / Kanban)</li>
+</ul>
+
+<h4>Linguagens</h4>
+<ul>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>Java</li>
+</ul>
+
+<h4>Outros Conhecimentos</h4>
+<ul>
+  <li>Git & GitHub</li>
+  <li>Noções de CI/CD</li>
+</ul>
+
+<hr>
+
+<h2>📚 Em constante aprendizado</h2>
+<ul>
+  <li>Boas práticas em automação de testes</li>
+  <li>Estruturação de frameworks de testes</li>
+  <li>Testes de performance</li>
+  <li>Integração de testes em pipelines CI/CD</li>
+  <li>Qualidade aplicada desde o início do desenvolvimento</li>
+</ul>
+
+<hr>
+
+<h2>📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula" />
+</div>
+
+<hr>
+
+<h2>📫 Contato</h2>
+<p>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/gfuzel" target="_blank">Gustavo Fuzel</a><br>
+  📧 Email: gu.fuzel.1@gmail.com
+</p>
+
+<hr>
